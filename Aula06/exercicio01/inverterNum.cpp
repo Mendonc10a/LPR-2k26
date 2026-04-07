@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 int inverterNum(int n) {
     int invertido = 0;
     while (n > 0) {
