@@ -12,7 +12,7 @@ namespace MeuProjeto
             int chute = int.Parse(Console.ReadLine());
 
             while (chute != valorInteiro)
-            {
+            {   
                 if (chute < valorInteiro)
                 {
                     Console.WriteLine("O número é maior do que o chute.");
