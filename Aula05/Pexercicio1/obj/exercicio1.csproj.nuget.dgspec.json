@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula03\\HelloWorld\\HelloWorld.csproj": {}
+    "c:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula05\\Pexercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula03\\HelloWorld\\HelloWorld.csproj": {
+    "c:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula05\\Pexercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula03\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula03\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "c:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula05\\Pexercicio1\\exercicio1.csproj",
+        "projectName": "exercicio1",
+        "projectPath": "c:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula05\\Pexercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\SAMSUNG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula03\\HelloWorld\\obj\\",
+        "outputPath": "c:\\Users\\SAMSUNG\\Downloads\\LPR 2k26\\LPR 2k26\\Aula05\\Pexercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
