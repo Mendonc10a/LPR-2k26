@@ -59,3 +59,12 @@ Abaixo estão descritos os tópicos e conceitos abordados em cada uma das aulas 
   * Variáveis Compostas Homogêneas Multidimensionais: **Matrizes** (manipulação de dados estruturados em linhas e colunas).
   * Instanciação de arrays na memória e algoritmos de varredura utilizando estruturas de repetição integradas.
 * **Tecnologias/Linguagens:** Alocação e manipulação de arrays e matrizes em **C++** e **C#**.
+
+  ### 🔹 Aula 08: Variáveis Compostas Heterogêneas (Registros e Structs)
+* **Objetivo:** Compreender a criação de novos tipos de dados personalizados para agrupar diferentes informações sob uma mesma estrutura lógica.
+* **Principais Conceitos:**
+  * Conceito e definição de estruturas de dados heterogêneas (`Structs` / Registros).
+  * Diferença prática entre variáveis homogêneas (vetores que guardam o mesmo tipo) e heterogêneas (registros que guardam tipos diferentes).
+  * Criação de membros/campos internos na estrutura e manipulação de dados através do operador de ponto (`.`).
+  * Implementação de vetores de structs (combinação de arrays com registros para modelagem de bancos de dados simples).
+* **Tecnologias/Linguagens:** Alocação, leitura e escrita de registros customizados em **C++** e **C#**.
